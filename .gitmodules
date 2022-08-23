@@ -1,11 +1,7 @@
-[submodule "son/son_project_1"]
-	path = son/son_project_1
+[submodule "main/son_project_1"]
+	path = main/son_project_1
 	url = https://github.com/mayaaihaozhe/son_project_1.git
-	branch = test
-
 [submodule "test/son_project_1"]
 	path = test/son_project_1
 	url = https://github.com/mayaaihaozhe/son_project_1.git
 	branch = test
-
-
