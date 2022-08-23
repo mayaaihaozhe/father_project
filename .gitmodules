@@ -1,0 +1,4 @@
+[submodule "son/son_project_1"]
+	path = son/son_project_1
+	url = https://github.com/mayaaihaozhe/son_project_1.git
+	branch = test
