@@ -1,4 +1,5 @@
 from pprint import pprint
+import time
 
 def west_pp():
     data = 'this is data'
@@ -8,6 +9,8 @@ def west_pp():
             pprint(f'{i} is 偶数')
 
 
-
+def newBranch():
+    print(time.__dict__)
 if __name__=='__main__':
     west_pp()
+    newBranch()
