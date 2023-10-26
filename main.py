@@ -13,4 +13,3 @@ def newBranch():
     print(time.__dict__)
 if __name__=='__main__':
     west_pp()
-    newBranch()
