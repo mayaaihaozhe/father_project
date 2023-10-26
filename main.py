@@ -9,4 +9,6 @@ def west_pp():
             pprint(f'{i} is 偶数')
 
 
-west_pp()
+
+if __name__=='__main__':
+    west_pp()
