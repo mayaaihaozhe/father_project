@@ -7,5 +7,4 @@ def west_pp():
         if i % 2 != 0:
             pprint(f'{i} is 偶数')
 
-
 west_pp()
